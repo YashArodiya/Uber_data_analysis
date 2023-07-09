@@ -1,0 +1,3 @@
+Extract -> Extracting the csv file and loading it and sending it to the tranformer
+Transformer -> Cleans the dataset and converts it into different fact and dimension tables, finally converting into a map of tables and values
+Load -> Sending this mapping to the bigquery tool for creating a final easy-to-understand database that can be visualized 
